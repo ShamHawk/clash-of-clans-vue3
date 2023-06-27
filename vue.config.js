@@ -1,5 +1,4 @@
 module.exports = {
-  publicPath: '/',
-  productionSourceMap: false,
-  assetsDir: 'assets'
+  publicPath:
+    process.env.NODE_ENV === 'production' ? '/clash-of-clans-vue3/' : '/'
 }

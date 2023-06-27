@@ -1,6 +1,6 @@
 {
   "name": "vue-template",
-  "homepage": "https://https://shamhawk.github.io/clash-of-clans-vue3.git",
+  "homepage": "https://shamhawk.github.io/clash-of-clans-vue3/",
   "version": "0.1.0",
   "scripts": {
     "serve": "vue-cli-service serve",
