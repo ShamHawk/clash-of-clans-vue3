@@ -1,5 +1,5 @@
-## Ознакомиться с проектом можно по ссылке:
-# https://shamhawk.github.io/clash-of-clans-vue3/#/
+# Ознакомиться с проектом можно по ссылке:
+## https://shamhawk.github.io/clash-of-clans-vue3/#/
 
 ## License
 
